@@ -1,6 +1,6 @@
 ---
 title: "What is Sensitive Data Exposure"
-date: 2024-11-17 10:00:00 +0000
+date: 2024-11-1 10:00:00 +0000
 categories: [Sensitive Data Exposure, Introduction]
 tags: sensitive-data-exposure, introduction    # TAG names should always be lowercase
 ---
