@@ -80,13 +80,6 @@ Even with advanced technology, improper configurations and vulnerabilities often
 - **Dependency Vulnerabilities**: Using vulnerable libraries or frameworks can introduce risks.
 
 
-<script src="https://utteranc.es/client.js"
-        repo="sensitive-data-safe/sensitive-data-safe.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
 
 
 
