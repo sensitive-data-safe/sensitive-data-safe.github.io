@@ -6,14 +6,14 @@ tags: blogging, tools    # TAG names should always be lowercase
 ---
 When I decided to start this practical work, I believed that choosing a blogging tool would be simple. But as I explored different platforms, I realized that each comes with its own strengths, weaknesses, and learning curves. Here's my journey of exploring three popular blogging tools —Blogger, WordPress, and Jekyll—and how I landed on the one that worked best for me.
 ## Starting with Blogger: A Simple Yet Limiting Option
-![Choosing the Right Blogging Tool](images\blogger.png)
+![Choosing the Right Blogging Tool](images/blogger.png)
 
 
 At first, I thought Blogger, Google’s CMS, would be the best option. It’s beginner-friendly, and I liked the idea of using a platform backed by Google. However, once I started building my blog, I quickly realized it lacked the flexibility I needed.
 
 While it was easy to set up, I wasn’t satisfied with how the design and layout options matched my vision. The customization capabilities felt limited, and I struggled to make the blog look unique. As someone who values aesthetics and functionality, I knew I had to move on.
 ## Exploring WordPress: A Popular and Powerful CMS
-![Blogging tools](images\wordpress.png)
+![Blogging tools](images/wordpress.png)
 Next, I turned to WordPress, the most widely used CMS. Everyone recommended it, so I thought it would be the perfect choice. After signing up, I spent 30 minutes finding a theme that matched the idea I had in mind. Finally, I found one I liked and began building my blog.
 
 Since it was my first time using WordPress, I relied heavily on YouTube tutorials to understand the basics. However, I soon ran into roadblocks:
