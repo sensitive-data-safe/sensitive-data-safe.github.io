@@ -15,6 +15,8 @@ In this blog series, we explored:
 - **Choosing the Right Blogging Tool for me:** My personal experiences with Blogger, WordPress, and Jekyll as I built a platform to share my insights.
 
 ## My Personal Experience
+![My Journey](images/9atipx.gif)
+
 
 The journey of creating this blog taught me two crucial lessons:
 

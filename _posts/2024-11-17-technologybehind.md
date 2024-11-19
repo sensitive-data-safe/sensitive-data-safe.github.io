@@ -9,6 +9,9 @@ Sensitive data exposure is a significant cybersecurity concern, as it can lead t
 ## 1. How Sensitive Data is Stored, Transmitted, and Accessed in Systems
 
 ### Data Storage
+![http://www.google.com](images/data-storage.jpg)
+[source:https://mondo.com/insights/evolution-data-storage-tapes-cloud-computing/](https://mondo.com/insights/evolution-data-storage-tapes-cloud-computing/)
+
 Sensitive data, such as personally identifiable information (PII), financial data, and intellectual property, is stored in various systems. Key methods include:
 
 - **Relational Databases**: Databases like MySQL, PostgreSQL, and SQL Server are widely used. They store structured data in tables with defined schemas.

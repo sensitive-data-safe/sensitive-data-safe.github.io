@@ -8,6 +8,8 @@ In today’s interconnected world, sensitive data exposure has become one of the
 
 ## Key Concepts in Data Protection
 
+![Data Exposure Mechanics](images/data-protection.jpg)
+*Source:[https://mondo.com/insights/evolution-data-storage-tapes-cloud-computing/](https://mondo.com/insights/evolution-data-storage-tapes-cloud-computing/)*
 ### Encryption
 Encryption transforms data into an unreadable format, ensuring that even if it is intercepted, it cannot be understood without a decryption key. For example:
 
